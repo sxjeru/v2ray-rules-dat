@@ -4,7 +4,9 @@ on:
 #   schedule:
 #     - cron: "0 22 * * *"
   push:
-    branches: [ master, hidden ]
+    branches: 
+      - hidden
+      - master
     paths-ignore:
       - "**/README.md"
 jobs:
