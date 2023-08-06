@@ -30,3 +30,5 @@ tongji.baidu.com
 tv.sohu.com
 ue.yeyoucdn.com
 googletagmanager.com
+www.ptengine.com
+insights.hotjar.com
