@@ -34,3 +34,4 @@ googletagmanager.com
 ptengine.com
 hotjar.com
 awstrack.me
+umami.is
